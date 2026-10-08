@@ -15,7 +15,7 @@ This project implements a conversational SQL agent using **LangGraph** and **Str
 
 Check out the SQL agent in action:
 
-[▶️ Watch Demo](https://animesh1012.github.io/data_analyst_agent/demo.mp4)
+[💻 View Project](https://github.com/Aditipalange904/conversational-sql-data-analyst-agent)
 
 
 ## Features
